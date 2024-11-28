@@ -1,0 +1,14 @@
+C:\Users\k\Desktop\project\YourIndexNumber\YourIndexNumber\obj\Debug\net8.0\YourIndexNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k\Desktop\project\YourIndexNumber\YourIndexNumber\obj\Debug\net8.0\YourIndexNumber.AssemblyInfoInputs.cache
+C:\Users\k\Desktop\project\YourIndexNumber\YourIndexNumber\obj\Debug\net8.0\YourIndexNumber.AssemblyInfo.cs
+C:\Users\k\Desktop\project\YourIndexNumber\YourIndexNumber\obj\Debug\net8.0\YourIndexNumber.csproj.CoreCompileInputs.cache
+C:\Users\k\Desktop\project\YourIndexNumber\YourIndexNumber\bin\Debug\net8.0\YourIndexNumber.exe
+C:\Users\k\Desktop\project\YourIndexNumber\YourIndexNumber\bin\Debug\net8.0\YourIndexNumber.deps.json
+C:\Users\k\Desktop\project\YourIndexNumber\YourIndexNumber\bin\Debug\net8.0\YourIndexNumber.runtimeconfig.json
+C:\Users\k\Desktop\project\YourIndexNumber\YourIndexNumber\bin\Debug\net8.0\YourIndexNumber.dll
+C:\Users\k\Desktop\project\YourIndexNumber\YourIndexNumber\bin\Debug\net8.0\YourIndexNumber.pdb
+C:\Users\k\Desktop\project\YourIndexNumber\YourIndexNumber\obj\Debug\net8.0\YourIndexNumber.dll
+C:\Users\k\Desktop\project\YourIndexNumber\YourIndexNumber\obj\Debug\net8.0\refint\YourIndexNumber.dll
+C:\Users\k\Desktop\project\YourIndexNumber\YourIndexNumber\obj\Debug\net8.0\YourIndexNumber.pdb
+C:\Users\k\Desktop\project\YourIndexNumber\YourIndexNumber\obj\Debug\net8.0\YourIndexNumber.genruntimeconfig.cache
+C:\Users\k\Desktop\project\YourIndexNumber\YourIndexNumber\obj\Debug\net8.0\ref\YourIndexNumber.dll
